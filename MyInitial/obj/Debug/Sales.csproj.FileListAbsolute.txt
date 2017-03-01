@@ -1,0 +1,11 @@
+D:\TAFE\DIPLOMA SOFTWARE DEVELOPMENT\2017 SEM 1\5TSD\ThirdRepos\MyInitial\bin\Debug\MyNameSpace.exe
+D:\TAFE\DIPLOMA SOFTWARE DEVELOPMENT\2017 SEM 1\5TSD\ThirdRepos\MyInitial\bin\Debug\MyNameSpace.pdb
+D:\TAFE\DIPLOMA SOFTWARE DEVELOPMENT\2017 SEM 1\5TSD\ThirdRepos\MyInitial\obj\Debug\Sales.csprojResolveAssemblyReference.cache
+D:\TAFE\DIPLOMA SOFTWARE DEVELOPMENT\2017 SEM 1\5TSD\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.AboutBox1.resources
+D:\TAFE\DIPLOMA SOFTWARE DEVELOPMENT\2017 SEM 1\5TSD\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.JuiceBarForm.resources
+D:\TAFE\DIPLOMA SOFTWARE DEVELOPMENT\2017 SEM 1\5TSD\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
+D:\TAFE\DIPLOMA SOFTWARE DEVELOPMENT\2017 SEM 1\5TSD\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
+D:\TAFE\DIPLOMA SOFTWARE DEVELOPMENT\2017 SEM 1\5TSD\ThirdRepos\MyInitial\obj\Debug\Ticketing.TicketsForm.resources
+D:\TAFE\DIPLOMA SOFTWARE DEVELOPMENT\2017 SEM 1\5TSD\ThirdRepos\MyInitial\obj\Debug\Sales.csproj.GenerateResource.Cache
+D:\TAFE\DIPLOMA SOFTWARE DEVELOPMENT\2017 SEM 1\5TSD\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.exe
+D:\TAFE\DIPLOMA SOFTWARE DEVELOPMENT\2017 SEM 1\5TSD\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.pdb

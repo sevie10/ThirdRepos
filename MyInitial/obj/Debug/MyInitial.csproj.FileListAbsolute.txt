@@ -17,3 +17,5 @@ E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyNameSpace.
 E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyNameSpace.Properties.Resources.resources
 E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyNameSpace.SummaryForm.resources
 E:\TAFE S1 2016\5TSD\Resources\Session01\Lab_01\MyInitial\obj\Debug\MyInitial.csproj.GenerateResource.Cache
+D:\TAFE\DIPLOMA SOFTWARE DEVELOPMENT\2017 SEM 1\5TSD\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.exe
+D:\TAFE\DIPLOMA SOFTWARE DEVELOPMENT\2017 SEM 1\5TSD\ThirdRepos\MyInitial\obj\Debug\MyNameSpace.pdb
